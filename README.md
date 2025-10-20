@@ -1,4 +1,4 @@
-<h1>Простая форма + CRM (фрейм laravel) + рабочий сервер с максимальной защитой и валидацией</h1>
+<h1>Простая форма + CRM (фрейм laravel) + рабочий сервер с максимальной защитой и валидацией </h1>
 <p>Админ учетка kalabkin2015@mail.ru pas 123456 , есть мобильная адаптация</p>
 <img width="286" height="311" alt="image" src="https://github.com/user-attachments/assets/6251dd37-0e54-46ca-9f86-24f37f3f3d2f" />
 <img width="377" height="325" alt="image" src="https://github.com/user-attachments/assets/61121e0c-c853-4ab8-9a7a-5034d45e8ada" />
